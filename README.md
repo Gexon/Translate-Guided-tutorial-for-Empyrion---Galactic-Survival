@@ -1,13 +1,19 @@
 # Translate-Guided-tutorial-for-Empyrion---Galactic-Survival
 Перевод на Русский язык Основного обучения, то что с главного меню. Empyrion - Galactic Survival. Теоретически возможен перевод на любой другой язык.
 
-## Видео демонстрации
+## Видео демонстрации на ютубунити
+<a href="https://www.youtube.com/watch?v=k-MJpYkip68">
+  <img src="https://img.youtube.com/vi/k-MJpYkip68/hqdefault.jpg"
+       alt="Смотреть видео демонстрации на ютубунити"
+       width="320">
+</a>
 
-[![Смотреть демонстрацию на ютубунити](https://img.youtube.com/vi/k-MJpYkip68/hqdefault.jpg)](https://www.youtube.com/watch?v=k-MJpYkip68)
-
-## Видео демонстрации
-
-[![Смотреть демонстрацию в VK Видео](video-preview.jpg)](https://vkvideo.ru/video-64441846_456239129)
+## Видео демонстрации в VK Видео
+<a href="(https://vkvideo.ru/video-64441846_456239129)">
+  <img src="video-preview.jpg"
+       alt="Смотреть демонстрацию в VK Видео"
+       width="320">
+</a>
 
 В папке "Empyrion - Galactic Survival Перевод обучения" находятся только файлы с уже готовым переводом.
 1. файл "Dialogues.csv"
