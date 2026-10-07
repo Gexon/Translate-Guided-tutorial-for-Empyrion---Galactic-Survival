@@ -1,0 +1,7 @@
+1. файл "Dialogues.csv"
+должен быть в папке "C:\Program Files (x86)\Steam\steamapps\common\Empyrion - Galactic Survival\Content\Scenarios\Guided Tutorial\Content\Configuration"
+
+2. файл "PDA.csv"
+должен быть в папке "C:\Program Files (x86)\Steam\steamapps\common\Empyrion - Galactic Survival\Content\Scenarios\Guided Tutorial\Extras\PDA"
+
+3. оба файла копировать с заменой.
