@@ -1,6 +1,14 @@
 # Translate-Guided-tutorial-for-Empyrion---Galactic-Survival
 Перевод на Русский язык Основного обучения, то что с главного меню. Empyrion - Galactic Survival. Теоретически возможен перевод на любой другой язык.
 
+## Видео демонстрации
+
+[![Смотреть демонстрацию на ютубунити](https://img.youtube.com/vi/k-MJpYkip68/hqdefault.jpg)](https://www.youtube.com/watch?v=k-MJpYkip68)
+
+## Видео демонстрации
+
+[![Смотреть демонстрацию в VK Видео](video-preview.jpg)](https://vkvideo.ru/video-64441846_456239129)
+
 В папке "Empyrion - Galactic Survival Перевод обучения" находятся только файлы с уже готовым переводом.
 1. файл "Dialogues.csv"
 должен быть в папке "C:\Program Files (x86)\Steam\steamapps\common\Empyrion - Galactic Survival\Content\Scenarios\Guided Tutorial\Content\Configuration"
