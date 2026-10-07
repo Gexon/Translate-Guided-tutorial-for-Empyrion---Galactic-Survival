@@ -9,7 +9,7 @@
 </a>
 
 ## Видео демонстрации в VK Видео
-<a href="(https://vkvideo.ru/video-64441846_456239129)">
+<a href="https://vkvideo.ru/video-64441846_456239129">
   <img src="video-preview.jpg"
        alt="Смотреть демонстрацию в VK Видео"
        width="320">
